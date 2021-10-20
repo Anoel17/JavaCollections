@@ -97,5 +97,8 @@ public class Main {
         myLinkedList();
         myArrayList();
         myVector(); 
+        
+        // iteration is read/write
+        // enumeration is read-only
     }
 }
